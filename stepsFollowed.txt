@@ -1,0 +1,8 @@
+1. execute - npm init
+2. add details
+3. add a new alias in package.json - "start": "node index.js",
+4. create index.js and add some code
+5. execute - npm run start
+6. for any custom script, mandatory to use npm run <script_name> but for start,test scripts, we can also use npm start, npm test
+7. execute - npm install moment
+8. 
